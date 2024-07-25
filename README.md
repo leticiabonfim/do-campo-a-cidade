@@ -4,4 +4,4 @@
 ##### imagem gigante adormecido disponível em:https://www.tripadvisor.com.br/Tourism-g4133630-Turvo_State_of_Parana-Vacations.html
 ###### imagem paraná municipio de turvo disponível em:https://pt.wikipedia.org/wiki/Turvo_%28Paran%C3%A1%29
 ###### texto sobre o turvo disponível em:https://www.turvo.pr.gov.br/
-###### desenvolvido por: Leticia Bonfim
+###### desenvolvido por: Leticia Bonfim 
